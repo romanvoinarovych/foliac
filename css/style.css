@@ -206,7 +206,7 @@ textarea {
 	width: 100%;
 	top: 56px;
 }
-.ba-portfolio-menu ul{
+.ba-portfolio-menu ul {
 	margin: 0 auto;
 	padding: 0;
 	display: flex;
@@ -265,6 +265,12 @@ textarea {
 	top: 0px;
 	position: relative;
 	float: left;
+}
+.portfolio-item a {
+	display: block;
+}
+.portfolio-item img {
+	display: block;
 }
 .portfolio-item .item_d {
 	left: 0;
